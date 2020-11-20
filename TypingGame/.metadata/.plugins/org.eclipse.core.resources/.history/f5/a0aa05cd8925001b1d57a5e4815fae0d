@@ -1,8 +1,0 @@
-package typing_game1;
-
-public class Main {
-	public static void main(String[] args) {
-		TypingGame typingGame = new TypingGame();
-		typingGame.run();
-	}
-}
