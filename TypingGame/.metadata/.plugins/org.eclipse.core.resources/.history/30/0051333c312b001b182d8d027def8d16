@@ -1,0 +1,52 @@
+package typing_game6;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class SelectLevelPanel extends JPanel{
+	private final int SCREEN_WIDTH = 480;
+	private final int SCREEN_HEIGHT = 320;
+	
+	private Image screenImage;
+	private Graphics screenGraphic;
+	
+	private Image background = new ImageIcon(Main.class.getResource("../images/select.png")).getImage();
+	private ImageIcon arrowIcon = new ImageIcon(Main.class.getResource("../images/arrow.png"));
+	
+	public SelectLevelPanel() {
+		setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+		setLayout(null);
+		JButton btn = new JButton("start");
+		setArrow();
+		/*
+		btn.setLocation(10, 10);
+		btn.setSize(100, 10);
+		btn.addMouseListener(new MouseAdapter() {
+			@Override
+			public void mousePressed(MouseEvent e) {
+				btn.getParent().getParent().remove(btn.getParent());
+			}
+		});
+		add(btn);*/
+	}
+	
+	public void setArrow() {
+		JLabel label = new JLabel(arrowIcon);
+		label.setSize(100, 100);
+		label.setLocation(10, 10);
+		add(label);
+	}
+	public void paint(Graphics g) {
+		screenImage = createImage(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		screenGraphic = screenImage.getGraphics();
+		screenDraw(screenGraphic);
+		g.drawImage(screenImage, 0, 0, null);
+	}
+	
+	public void screenDraw(Graphics g) {
+		g.drawImage(background, 0, 0, null);
+		paintComponents(g);
+		this.repaint();
+	}
+}

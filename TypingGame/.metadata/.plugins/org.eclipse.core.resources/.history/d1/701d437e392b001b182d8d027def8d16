@@ -1,0 +1,75 @@
+package typing_game6;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class SelectLevelPanel extends JPanel{
+	private Image screenImage;
+	private Graphics screenGraphic;
+	
+	private Image background = new ImageIcon(Main.class.getResource("../images/select3.png")).getImage();
+	private ImageIcon arrowIcon = new ImageIcon(Main.class.getResource("../images/arrow.png"));
+	
+	private int levelImageWidth = 300;
+	private int levelImageHeight = 500;
+	private Image level1 = new ImageIcon(Main.class.getResource("../images/spring.png")).getImage();
+	private int level1_PosX = 100;
+	private int level1_PosY = 100;
+	
+	
+	private Image level2 = new ImageIcon(Main.class.getResource("../images/autumn.png")).getImage();
+	private int level2_PosX = 500;
+	private int level2_PosY = 100;
+	
+	private Image level3 = new ImageIcon(Main.class.getResource("../images/winter.png")).getImage();
+	private int level3_PosX = 900;
+	private int level3_PosY = 100;
+	
+	public SelectLevelPanel() {
+		setSize(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		setLayout(null);
+		
+		JButton btn = new JButton("start");
+		setArrow();
+		/*
+		btn.setLocation(10, 10);
+		btn.setSize(100, 10);
+		btn.addMouseListener(new MouseAdapter() {
+			@Override
+			public void mousePressed(MouseEvent e) {
+				btn.getParent().getParent().remove(btn.getParent());
+			}
+		});
+		add(btn);*/
+		setFocusable(true);
+		requestFocus();
+	}
+	
+	public void setArrow() {
+		JLabel label = new JLabel(arrowIcon);
+		label.setSize(100, 100);
+		label.setLocation(100, 10);
+		label.addKeyListener(new KeyAdapter() {
+			
+		});
+		add(label);
+	}
+	
+	public void paint(Graphics g) {
+		screenImage = createImage(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		screenGraphic = screenImage.getGraphics();
+		screenDraw(screenGraphic);
+		g.drawImage(screenImage, 0, 0, null);
+	}
+	
+	public void screenDraw(Graphics g) {
+		g.drawImage(background, 0, 0, null);
+		g.drawImage(level1, level1_PosX, level1_PosY, levelImageWidth, levelImageHeight, null);
+		g.drawImage(level2, level2_PosX, level2_PosY, levelImageWidth, levelImageHeight, null);
+		g.drawImage(level3, level3_PosX, level3_PosY, levelImageWidth, levelImageHeight, null);
+		paintComponents(g);
+		this.repaint();
+	}
+	
+}

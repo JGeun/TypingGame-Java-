@@ -1,0 +1,107 @@
+package typing_game6;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class SelectLevelPanel extends JPanel{
+	private Image screenImage;
+	private Graphics screenGraphic;
+	
+	private Image background = new ImageIcon(Main.class.getResource("../images/select3.png")).getImage();
+	private ImageIcon arrowIcon = new ImageIcon(Main.class.getResource("../images/arrow.png"));
+	private JLabel arrow = new JLabel(arrowIcon);
+	
+	private int levelImageWidth = 300;
+	private int levelImageHeight = 450;
+	
+	private Image level1 = new ImageIcon(Main.class.getResource("../images/spring.png")).getImage();
+	private Image level2 = new ImageIcon(Main.class.getResource("../images/autumn.png")).getImage();
+	private Image level3 = new ImageIcon(Main.class.getResource("../images/winter.png")).getImage();
+	
+	private int level1_PosX = 85;
+	private int level_posY = 200;
+	
+	private JLabel label_L1 = new JLabel("Level 1");
+	private JLabel label_L2 = new JLabel("Level 2");
+	private JLabel label_L3 = new JLabel("Level 3");
+	
+	private int label_L1_posX = 165;
+	private int label_posY = 120;
+	
+	private int labelWidth= 200;
+	private int labelHeight= 100;
+	
+	private JButton btn = new JButton("test");
+	
+	public SelectLevelPanel(Container c){
+		setSize(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		setLayout(null);
+		
+		c.addKeyListener(new MyKeyListener());
+		setArrow();
+		setLevelLabel();
+	
+	}
+	
+	class MyKeyListener extends KeyAdapter{
+		@Override
+		public void keyPressed(KeyEvent e) {
+			int keyCode = e.getKeyCode();
+			int arrowPosX = arrow.getX();
+			switch(keyCode) {
+			case KeyEvent.VK_LEFT:
+				System.out.println("left");
+				if(arrowPosX >= 405)
+					arrow.setLocation(arrowPosX-405, arrow.getY());
+				
+				break;
+			case KeyEvent.VK_RIGHT:
+				System.out.println("right");
+				if(arrowPosX <= 800)
+					arrow.setLocation(arrow.getX()+405, arrow.getY());
+				break;
+			}
+		}
+	}
+	public void setArrow() {
+		arrow = new JLabel(arrowIcon);
+		arrow.setSize(250, 150);
+		arrow.setLocation(100, 10);
+		add(arrow);
+	}
+	
+	public void setLevelLabel() {
+		label_L1.setSize(labelWidth, labelHeight);
+		label_L1.setLocation(label_L1_posX, label_posY);
+		label_L1.setFont(new Font("Serif", Font.BOLD, 40));
+		add(label_L1);
+		
+		label_L2.setSize(labelWidth, labelHeight);
+		label_L2.setLocation(label_L1_posX+410, label_posY);
+		label_L2.setFont(new Font("Serif", Font.BOLD, 40));
+		add(label_L2);
+		
+		label_L3.setSize(labelWidth, labelHeight);
+		label_L3.setLocation(label_L1_posX+810, label_posY);
+		label_L3.setFont(new Font("Serif", Font.BOLD, 40));
+		add(label_L3);
+	}
+	
+	public void paint(Graphics g) {
+		screenImage = createImage(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		screenGraphic = screenImage.getGraphics();
+		screenDraw(screenGraphic);
+		g.drawImage(screenImage, 0, 0, null);
+	}
+	
+	public void screenDraw(Graphics g) {
+		g.drawImage(background, 0, 0, null);
+		g.drawImage(level1, level1_PosX, level_posY, levelImageWidth, levelImageHeight, null);
+		g.drawImage(level2, level1_PosX+400, level_posY, levelImageWidth, levelImageHeight, null);
+		g.drawImage(level3, level1_PosX+800, level_posY, levelImageWidth, levelImageHeight, null);
+		paintComponents(g);
+		this.repaint();
+	}
+	
+}

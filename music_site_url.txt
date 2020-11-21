@@ -1,4 +1,5 @@
-intro: https://www.youtube.com/watch?v=zuUsZy1MHtI 
-spring: https://www.youtube.com/watch?v=Efcq-zGihpE / https://www.youtube.com/watch?v=EJLJl11cDHs (Ikson - Sunny)
+intro:  https://www.youtube.com/watch?v=tDexBj46oNI&list=PLzCxunOM5WFLNCSF0UEHZqFJJlmdeL71S&index=7
+spring: https://www.youtube.com/watch?v=5WPnrvEMIdo&list=PLzCxunOM5WFLNCSF0UEHZqFJJlmdeL71S&index=36
 fall: https://www.youtube.com/watch?v=KzQiRABVARk 
 winter: https://www.youtube.com/watch?v=n8xGzkizA34
+ending: https://www.youtube.com/watch?v=-lbbHQbZNKg&list=PLzCxunOM5WFLNCSF0UEHZqFJJlmdeL71S&index=11

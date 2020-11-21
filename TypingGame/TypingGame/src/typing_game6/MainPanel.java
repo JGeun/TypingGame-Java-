@@ -15,6 +15,8 @@ public class MainPanel extends JPanel{
 	private Image screenImage;
 	private Graphics screenGraphic;
 	
+	private Music titleMusic;
+	
 	private Image background = new ImageIcon(Main.class.getResource("../images/backgroundTitle.png")).getImage();
 	
 	private ImageIcon startBtnBasic = new ImageIcon(Main.class.getResource("../images/startBtnBasic.png"));
@@ -33,16 +35,16 @@ public class MainPanel extends JPanel{
 	private JButton settingBtn = new JButton(settingBtnBasic);
 	private JButton exitBtn = new JButton(exitBtnBasic);
 	
-	public MainPanel() {
+	public MainPanel(Container c) {
+		setSize(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
 		setLayout(null);
 		
 		setStartBtn(this, 100, 300);
 		setSettingBtn(this, 100, 410);
 		setExitBtn(this, 100, 520);
 		
-		Music titleMusic = new Music("titleMusic.mp3", true);
-		titleMusic.start();
-		
+		titleMusic = new Music("titleMusic.mp3", true);
+		//titleMusic.start();
 	}
 	public void setStartBtn(Container c, int x, int y) {
 		startBtn.setLocation(x, y);
@@ -61,12 +63,24 @@ public class MainPanel extends JPanel{
 			public void mousePressed(MouseEvent e) {
 				startBtn.setIcon(startBtnClick);
 				startBtn.setCursor(new Cursor(Cursor.HAND_CURSOR));
+				
+				//startBtn.setEnabled(false);
 				startBtn.setVisible(false);
+				
+				//settingBtn.setEnabled(false);
 				settingBtn.setVisible(false);
+				
+				//exitBtn.setEnabled(false);
 				exitBtn.setVisible(false);
-//				JPanel selectPanel = new SelectPanel();
-//				add(selectPanel);
-				//background = new ImageIcon(Main.class.getResource("../images/backgroundTitle.png")).getImage();
+				
+				c.remove(startBtn.getParent());
+				
+				titleMusic.interrupt();
+				titleMusic.close();
+				
+				SelectLevelPanel selectLevelPanel = new SelectLevelPanel(c);
+				c.add(selectLevelPanel);
+				c.repaint();
 			}
 			
 			@Override
