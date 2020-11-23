@@ -1,0 +1,34 @@
+package typing_game8;
+
+import javax.swing.*;
+import java.awt.*;
+
+public class GamePanel extends JPanel{
+	private JLabel word = new JLabel("ㄱㄱ");
+	private TextSource textSource = new TextSource();
+	
+	public GamePanel(Container c) {
+		setSize(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		setLayout(null);
+		
+		
+		word.setSize(100, 100);
+		word.setLocation(100, 100);
+		
+		add(word);
+		
+		if(textSource != null) {
+			for(int i=0; i<textSource.getSize(); i++) {
+				word.setText(textSource.getText(i));
+				
+				try {
+					Thread.sleep(1000);
+				}catch(InterruptedException e){
+					System.out.println(e.getMessage());
+				}
+			}
+		}else {
+			System.out.println("textsource에 파일 못읽음");
+		}
+	}
+}

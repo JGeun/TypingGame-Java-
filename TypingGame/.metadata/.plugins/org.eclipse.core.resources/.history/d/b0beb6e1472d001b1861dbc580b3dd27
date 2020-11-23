@@ -1,0 +1,55 @@
+package typing_game8;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class GamePanel extends JPanel{
+	private Image screenImage;
+	private Graphics screenGraphic;
+	private Image background;
+	
+	private ImageIcon btnPauseIcon = new ImageIcon(Main.class.getResource("../images/backArrow.png"));
+	private ImageIcon btnSoundIcon = new ImageIcon(Main.class.getResource("../images/selectArrow.png"));
+	private JButton btnPause = new JButton()
+	private JLabel word = new JLabel("¤¡¤¡");
+	private TextSource textSource = new TextSource();
+	
+	public GamePanel(Container c, Game contents) {
+		setSize(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		background = contents.getBackground();
+		
+		setLayout(null);
+		
+		word.setSize(100, 100);
+		word.setLocation(100, 100);
+		c.addKeyListener(new KeyAdapter() {
+			@Override
+			public void keyPressed(KeyEvent e) {
+				int keyCode = e.getKeyCode();
+				if(keyCode == KeyEvent.VK_LEFT) {
+					System.out.println("a");
+					int index = (int)(Math.random()*textSource.getSize());
+					word.setText(textSource.getText(index));
+				}
+			}
+		});
+		add(word);
+		
+		c.setFocusable(true);
+		c.requestFocus();
+	}
+	
+	public void paint(Graphics g) {
+		screenImage = createImage(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		screenGraphic = screenImage.getGraphics();
+		screenDraw(screenGraphic);
+		g.drawImage(screenImage, 0, 0, null);
+	}
+	
+	public void screenDraw(Graphics g) {
+		g.drawImage(background, 0, 0, null);
+		paintComponents(g);
+		this.repaint();
+	}
+}

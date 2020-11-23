@@ -1,0 +1,10 @@
+package typing_game9;
+
+import javax.swing.*;
+
+public class PausePanel extends JPanel{
+	public PausePanel(Container contentPane, ImageIcon pauseBgIcon) {
+		setSize(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
+		
+	}
+}

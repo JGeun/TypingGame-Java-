@@ -9,8 +9,11 @@ public class SelectLevelPanel extends JPanel{
 	private Graphics screenGraphic;
 	
 	private Image background = new ImageIcon(Main.class.getResource("../images/select3.png")).getImage();
-	private ImageIcon arrowIcon = new ImageIcon(Main.class.getResource("../images/arrow.png"));
-	private JLabel arrow = new JLabel(arrowIcon);
+	private ImageIcon selectArrowIcon = new ImageIcon(Main.class.getResource("../images/selectArrow.png"));
+	private JLabel selectArrow = new JLabel(selectArrowIcon);
+	
+	
+	
 	
 	private int levelImageWidth = 300;
 	private int levelImageHeight = 450;
@@ -39,38 +42,39 @@ public class SelectLevelPanel extends JPanel{
 		setLayout(null);
 		
 		c.addKeyListener(new MyKeyListener());
-		setArrow();
+		setGameSelectArrow();
 		setLevelLabel();
 		
 		c.setFocusable(true);
 		c.requestFocus();
 	}
 	
+	public void setGameSelectArrow() {
+		selectArrow = new JLabel(selectArrowIcon);
+		selectArrow.setSize(250, 150);
+		selectArrow.setLocation(100, 10);
+		add(selectArrow);
+	}
+	
 	class MyKeyListener extends KeyAdapter{
 		@Override
 		public void keyPressed(KeyEvent e) {
 			int keyCode = e.getKeyCode();
-			int arrowPosX = arrow.getX();
+			int arrowPosX = selectArrow.getX();
 			switch(keyCode) {
 			case KeyEvent.VK_LEFT:
 				System.out.println("left");
 				if(arrowPosX >= 405)
-					arrow.setLocation(arrowPosX-405, arrow.getY());
+					selectArrow.setLocation(arrowPosX-407, selectArrow.getY());
 				
 				break;
 			case KeyEvent.VK_RIGHT:
 				System.out.println("right");
 				if(arrowPosX <= 800)
-					arrow.setLocation(arrow.getX()+405, arrow.getY());
+					selectArrow.setLocation(selectArrow.getX()+407, selectArrow.getY());
 				break;
 			}
 		}
-	}
-	public void setArrow() {
-		arrow = new JLabel(arrowIcon);
-		arrow.setSize(250, 150);
-		arrow.setLocation(100, 10);
-		add(arrow);
 	}
 	
 	public void setLevelLabel() {
