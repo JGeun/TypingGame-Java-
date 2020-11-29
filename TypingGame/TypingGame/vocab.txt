@@ -1,0 +1,1000 @@
+1	culture 臾명솕, 援먯뼇
+2	experience 寃쏀뿕
+3	education 援먯쑁
+4	symbol �긽吏�
+5	effect 寃곌낵, �쁺�뼢, �슚怨�
+6	liberty �옄�쑀
+7	affair �궗嫄�, �씪
+8	comfort �븞�씫, �쐞�븞
+9	tradition �쟾�넻, �쟾�꽕
+10	subject �븰怨�, 二쇱젣, 二쇱뼱
+11	object �궗臾�, 紐⑹쟻, (�룞)諛섎��븯�떎
+12	source 異쒖쿂, 洹쇱썝
+13	revolution �쁺紐�
+14	pollution �삤�뿼
+15	system 議곗쭅, 泥닿퀎, 吏��룄
+16	triumph �듅由�
+17	respect 議닿꼍 �룞 議닿꼍�븯�떎
+18	communication �쟾�떖, 援먰넻 
+19	foundation 湲곗큹
+20	glory �쁺愿�
+21	situation �쐞移�, �궗�깭 
+22	competition 寃쎌웳
+23	prairie ��珥덉썝
+24	effort �끂�젰
+25	section 遺�遺�, 援ъ뿭
+26	rein 怨좎굪
+27	solution �빐寃�, �슜�빐
+28	hono(u)r 紐낆삁/寃쎌쓽, �룞 議닿꼍�븯�떎
+29	unity �넻�씪/�씪移�
+30	population �씤援�
+31	direction 諛⑺뼢, 吏��떆
+32	dialog(ue) ���솕
+33	republic 怨듯솕援�
+34	method 諛⑸쾿
+35	increase 利앷�, [�룞]利앷��븯�떎
+36	decrease 媛먯냼, [�룞]媛먯냼�븯�떎
+37	amount �뼇, �븸�닔, 珥앷퀎
+38	ancestor 議곗긽, �꽑議�
+39	voyage �빆�빐 
+40	sculpture 議곌컖(�뭹) 
+41	instrument 湲곌퀎, 湲곌뎄, �룄援�
+42	figure �닽�옄, 怨꾩궛, 紐⑥뒿, �씤臾�
+43	activity �솢�룞
+44	cause �썝�씤, �씠�쑀
+45	worth 媛�移�, ~�뿉 媛�移섍� �엳�뒗
+46	accident �궗怨�, �쑜諛뽰쓽 �궗嫄�
+47	adventure 紐⑦뿕
+48	view 寃쎌튂, �쓽寃�
+49	relative 移쒖쿃, 愿�怨꾧� �엳�뒗
+50	superstition 誘몄떊
+51	habit �뒿愿�, 踰꾨쫯
+52	wealth �옱�궛, 遺�
+53	treasure 蹂대Ъ
+54	universe �슦二�, �쟾 �꽭怨�
+55	adult �꽦�씤, �꽦�씤�쓽
+56	feast �뼢�뿰, �옍移�
+57	resources �옄�썝, �닔�떒
+58	ruin �뙆硫�
+59	monument 湲곕뀗鍮�, 湲곕뀗臾�
+60	information �젙蹂�, 吏��떇, �넻吏�
+61	appetite �떇�슃
+62	stethoscope 泥�吏꾧린
+63	mystery �떊鍮�, 遺덇��궗�쓽
+64	thermometer �삩�룄怨�
+65	burden 臾닿굅�슫 吏�, 吏먯쓣 吏��슦�떎
+66	series �뿰�냽, �떆由ъ쫰
+67	oath 留뱀꽭, �꽑�꽌
+68	appointment �엫紐�, �빟�냽
+69	clue �떎留덈━, �떒�꽌
+70	debt ���삙, 鍮�
+71	hydrogen �닔�냼
+72	control �넻�젣, 吏�諛�, �넻�젣�븯�떎, 吏�諛고븯�떎
+73	uniform �젣蹂�, �븳 紐⑥뼇�쓽
+74	design 怨꾪쉷, �꽕怨�, 怨꾪쉷�븯�떎, �뵒�옄�씤 �븯�떎
+75	damage �넀�빐, �넀�긽
+76	custom �뒿愿�, �뭾�뒿
+77	traffic 援먰넻
+78	sophomore 2�븰�뀈�깮
+79	temperature �삩�룄, 泥댁삩
+80	limit �젣�븳�븯�떎, �븳怨�, �젣�븳
+81	statue 議곌컖�긽
+82	furniture 媛�援�
+83	parade �뻾�젹
+84	public 怨듭쨷(�궗�쉶), 怨듦났�쓽, 怨듭쨷�쓽
+85	pilgrim �닚濡��옄
+86	greeting �씤�궗, 異뺥븯
+87	language �뼵�뼱
+88	opinion �쓽寃�
+89	athlete �슫�룞�꽑�닔 
+90	supply 怨듦툒, 怨듦툒�븯�떎
+91	surface �몴硫�
+92	electricity �쟾湲�
+93	order �닚�꽌, 紐낅졊
+94	spirit �젙�떊
+95	purpose 紐⑹쟻
+96	promise 媛�留�, �쟾留�, �빟�냽
+97	project 怨꾪쉷, 怨꾪쉷�븯�떎
+98	government �젙遺�, �젙移섏쓽
+99	exercise �슫�룞, �뿰�뒿�븯�떎
+100	comparison 鍮꾧탳
+101	interest �씠�씡, �씎誘�
+102	funeral �옣濡��떇
+103	senior �꽑諛�, �넀�쐞�뿉
+104	junior �썑諛�, �넀�븘�옒�뿉
+105	democracy 誘쇱＜二쇱쓽, 誘쇱＜�젙移�
+106	general �쑁援� �옣援�
+107	admiral �빐援곕��옣
+108	edge �궇, 媛��옣�옄由�
+109	biology �깮臾쇳븰
+110	danger �쐞�뿕
+111	advice 異⑷퀬
+112	practice �뿰�뒿�븯�떎
+113	mammal �룷�쑀�룞臾�
+114	grade �븰�뀈
+115	score �젏�닔
+116	pause 以묒�, 硫덉텛�떎
+117	pronunciation 諛쒖쓬
+118	stress �븬諛�, 媛뺤“�븯�떎
+119	contest 寃쎌웳
+120	horizon �닔�룊�꽑
+121	principal 援먯옣, 二쇱슂�븳, �빓
+122	might �옒
+123	trouble 怨좎깮, 嫄깆젙�븯�떎
+124	scar �긽泥�
+125	balance 洹좏삎
+126	proverb �냽�떞
+127	semester �븰湲�
+128	election �꽑嫄�
+129	inning �쉶
+130	hollow 援щ찉, �냽�씠 鍮�
+131	degree �룄, �젙�룄
+132	cemetery 臾섏�
+133	relay 援먮릺�옄, 援먮��븯�떎
+134	spot 吏��젏
+135	exchange 援먰솚�븯�떎
+136	merchant �긽�씤
+137	saying 寃⑹뼵
+138	refrigerator �깋�옣怨�
+139	crack 媛덈씪吏� �땲
+140	judge �옱�뙋愿�
+141	slave �끂�삁
+142	settler �씠二쇰�� 
+143	fare �슂湲�
+144	gesture 紐몄쭞 
+145	planet �쑀�꽦
+146	type �쑀�삎 
+147	secretary 鍮꾩꽌
+148	devil �븙留�
+149	scholar �븰�옄
+150	pardon �슜�꽌
+151	kindergarten �쑀移섏썝
+152	detective �깘�젙
+153	license 硫댄뿀
+154	palace 沅곸쟾
+155	spade �궫
+156	square �젙�궗媛곹삎, 愿묒옣
+157	fountain-pen 留뚮뀈�븘
+158	harvest �닔�솗, 異붿닔
+159	tool �룄援�
+160	sword 移�
+161	magazine �옟吏�
+162	stadium (�쑁�긽)寃쎄린�옣
+163	care 嫄깆젙, 議곗떖
+164	beauty �븘由꾨떎��
+165	museum 諛뺣Ъ愿� 
+166	sentence 臾몄옣
+167	memory 湲곗뼲
+168	delight 湲곗겏
+169	passenger �듅媛�
+170	skill �닕�젴, �넑�뵪
+171	journey �뿬�뻾
+172	ceremony �쓽�떇
+173	hobby 痍⑤��
+174	president ���넻�졊
+175	address 二쇱냼
+176	continent ��瑜�
+177	mankind �씤媛�
+178	patient �솚�옄, 李몄쓣�꽦 �엳�뒗
+179	site 遺�吏�
+180	marble ��由ъ꽍
+181	stem 以꾧린
+182	slip 誘몃걚�윭吏�
+183	torch �쉩遺�
+184	composer �옉怨↔�
+185	invader 移⑥엯�옄
+186	trick 怨꾨왂, �냽�엫�닔
+187	flight 鍮꾪뻾
+188	castle �꽦
+189	envelope 遊�
+190	pal 移쒓뎄
+191	vacation �쑕媛�
+192	desert �궗留�
+193	event �궗嫄�
+194	theater 洹뱀옣
+195	stage 臾대�
+196	error �옒紐�
+197	area 硫댁쟻, 吏��뿭
+198	base 湲곗큹, 湲곗큹瑜� �몢�떎
+199	basement 吏��븯�떎
+200	evil �븙, �굹�걶[200]
+201	atom �썝�옄
+202	poet �떆�씤
+203	petal 苑껋옂
+204	chance 湲고쉶, 媛��뒫�꽦
+205	mind 留덉쓬
+206	climate 湲고썑, �뭾�넗
+207	suburb 援먯쇅
+208	throat 紐⑷뎄硫�
+209	voice 紐⑹냼由�
+210	valley 怨⑥쭨湲�, 怨꾧끝
+211	puritan 泥�援먮룄
+212	feather 源껎꽭
+213	amateur �븘留덉텛�뼱
+214	nation 援�媛�
+215	puzzle �닔�닔猿섎겮
+216	riddle �닔�닔猿섎겮
+217	rear �뮘履�
+218	battle �쟾�닾, �떥��
+219	laundry �꽭�긽�냼
+220	shower �냼�굹湲�, �깶�썙
+221	navy �빐援�
+222	mars �솕�꽦
+223	gallery �솕�옉
+224	guest �넀�떂( visitor )
+225	folk �궗�엺�뱾
+226	problem 臾몄젣
+227	jewel 蹂댁꽍
+228	garage 李④퀬
+229	fault 寃곗젏, �옒紐�.
+230	lantern �옖�꽩
+231	import �닔�엯(�뭹)
+232	angle 媛곷룄
+233	match �떆�빀
+234	stripe 以꾨Т�뒳
+235	pulse 留λ컯
+236	powder 媛�猷�, �솕�빟
+237	flood �솉�닔
+238	bush �닔��, �뜡遺�
+239	branch 媛�吏�
+240	hero �쁺�썒 蹂듭닔�삎:heroes
+241	heaven �븯�뒛
+242	exit 異쒓뎄
+243	beast 吏먯듅(=animal)
+244	century �꽭湲�,100�뀈
+245	coeducation �궓�� 怨듯븰
+246	twin �뙇�뫁�씠�쓽 �븳 �궗�엺
+247	wound �긽泥�, 遺��긽
+248	metal 湲덉냽
+249	insect 怨ㅼ땐
+250	track 吏��굹媛� �옄援�, �꽑濡�
+251	deserve 諛쏆쓣 媛�移섍��엳�떎,~�븷 留뚰븯�떎
+252	survive ~蹂대떎 �삤�옒 �궡�떎, ~�뿉�꽌 �궡�븘�궓�떎
+253	create 李쎌“�븯�떎
+254	describe 臾섏궗�븯�떎
+255	select 怨좊Ⅴ�떎, �꽑諛쒗븳
+256	hesitate 二쇱��븯�떎, 留앹꽕�씠�떎
+257	declare �꽑�뼵�븯�떎
+258	pretend ~�씤 泥댄븯�떎
+259	struggle 遺꾪닾�끂�젰�븯�떎, �떥�슦�떎
+260	explore �깘�뿕�븯�떎
+261	astonish ���씪寃� �븯�떎
+262	disappoint �떎留앹떆�궎�떎
+263	attract �걣�떎
+264	celebrate 異뺥븯�븯�떎
+265	explode �룺諛쒖떆�궎�떎
+266	include �룷�븿�븯�떎
+267	protect 蹂댄샇�븯�떎
+268	introduce �냼媛쒗븯�떎, �룄�엯�븯�떎
+269	produce �깮�궛�븯�떎
+270	chase 已볥떎, 異붿쟻
+271	scratch �븷�대떎, 湲곷떎
+272	crash 異⑸룎(異붾씫)�븯�떎, ��瑜대Ⅴ 臾대꼫吏��떎
+273	stare �쓳�떆�븯�떎
+274	gaze �쓳�떆�븯�떎, 諛붾씪蹂대떎
+275	scare ���씪寃� �븯�떎, ���씪�떎
+276	grab ��耳쒖옟�떎 �쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾
+277	guard 吏��궎�떎, 寃쎄퀎, �쐞蹂�
+278	discuss �넗濡좏븯�떎
+279	shrug �뼱源⑤�� �쑝�벑�븯�떎
+280	sniff �깂�깉 留〓떎
+281	scream �궇移대∼寃� �냼由ъ튂�떎
+282	rid �젣嫄� �븯�떎
+283	surround �몮�윭�떥�떎.
+284	cleave 履쇨컻�떎, 李��떎.
+285	carve �깉湲곕떎, 議곌컖�븯�떎.
+286	except �젣�쇅�븯�떎 
+287	invent 諛쒕챸�븯�떎
+288	search 李얜떎 
+289	abuse �궓�슜�븯�떎, �븰���븯�떎.
+290	owe �옒�엯�떎, 鍮�(�쓽臾�)�씠 �엳�떎.
+291	bless 異뺣났�븯�떎 
+292	graduate 議몄뾽�븯�떎
+293	replace ~�쓣 ���떊�븯�떎, �젣 �옄由ъ뿉 �넃�떎.
+294	collect 紐⑥쑝�떎, �닔吏묓븯�떎. 
+295	upset �뮘�뿇�떎, �떦�솴�븯寃� �븳�떎.
+296	arrest 泥댄룷�븯�떎, 泥댄룷 
+297	prove 利앸챸�븯�떎 
+298	yell �쇅移섎떎
+299	howl 吏뽯떎, �슱遺�吏뽯떎 
+300	halt �젙吏��븯�떎
+301	leak �깉�떎
+302	behave �뻾�룞�븯�떎
+303	wrap �떥�떎
+304	locate �쐞移섑븯�떎
+305	charge 泥�援ы븯�떎
+306	review 蹂듭뒿�븯�떎
+307	refuse 嫄곗젅�븯�떎
+308	complain 遺덊룊�븯�떎
+309	remain �궓�떎
+310	warn 寃쎄퀬�븯�떎
+311	bend 援щ�由щ떎
+312	suffer 寃る떎
+313	whisper �냽�궘�씠�떎
+314	prepare 以�鍮꾪븯�떎
+315	roar �쑝瑜대쟻嫄곕━�떎
+316	float �쑉�떎
+317	drag 吏덉쭏 �걣�떎
+318	overhear �뿿�뱽�떎
+319	slide 誘몃걚�윭吏��떎
+320	suck 鍮⑤떎
+321	bother 愿대∼�엳�떎
+322	deal 遺꾨같�븯�떎
+323	treat �떎猷⑤떎
+324	destroy �뙆愿댄븯�떎
+325	accept 諛쏆븘�뱾�씠�떎
+326	depend ~�뿉 �쓽議댄븯�떎
+327	nod �걚�뜒�씠�떎
+328	remove �삷湲곕떎
+329	beat �븣由щ떎
+330	clap �긽 移섎떎
+331	feed 癒뱀쓣 寃껋쓣 二쇰떎
+332	obtain �뼸�떎
+333	drown 鍮좊쑉由щ떎 鍮좎��떎 鍮좎졇二쎈떎
+334	remind �깮媛곷굹寃� �븯�떎
+335	occur �씪�뼱�굹�떎
+336	ache �븘�봽�떎
+337	repeat �릺���씠�븯�떎
+338	attend 李몄꽍�븯�떎
+339	sigh �븳�닲 �돩�떎
+340	pray 鍮뚮떎
+341	press �늻瑜대떎
+342	bear �궠�떎
+343	follow �뵲瑜대떎
+344	hate 誘몄썙�븯�떎
+345	frighten 源쒖쭩 ���씪寃� �븯�떎
+346	shout �쇅移섎떎
+347	mention 留먰븯�떎
+348	waste �궘鍮꾪븯�떎
+349	borrow 鍮뚮━�떎
+350	complete �셿�꽦�븯�떎
+351	excellent �쎇�뼱�궃
+352	competent �쑀�뒫�븳
+353	religious 醫낃탳�쟻�씤
+354	favorite �븘二� 醫뗭븘�븯�뒗
+355	entire �쟾泥댁쓽
+356	primary 蹂몃옒�쓽
+357	similar 鍮꾩듂�븳
+358	precious 洹�以묓븳
+359	normal 蹂댄넻�쓽
+360	popular �씤湲� �엳�뒗
+361	compulsory �쓽臾댁쟻�씤
+362	curious �샇湲곗떖�씠 媛뺥븳
+363	independent �룆由쎌쓽
+364	intimate 移쒕��븳
+365	delicious 留쏆엳�뒗
+366	valuable 洹�以묓븳
+367	grave 以묐��븳
+368	elementary 珥덈낫�쓽
+369	crazy 誘몄튇
+370	contrary 諛섎��쓽
+371	regular 洹쒖튃�쟻�씤
+372	social �궗�쉶�쓽
+373	straight �삊諛붾Ⅸ
+374	noble 怨좉��븳
+375	anxious 嫄깆젙�릺�뒗
+376	international 援��젣�쟻�씤
+377	greedy �깘�슃�뒪�윭�슫
+378	stupid �뼱由ъ꽍��
+379	silly �뼱由ъ꽍��
+380	lonely 怨좊룆�븳
+381	dirty �뜑�윭�슫
+382	various �뿬�윭 媛�吏��쓽
+383	private 媛쒖씤�쓽
+384	vain 臾댁씡�븳
+385	sore �븘�뵂
+386	fierce �궗�굹�슫
+387	firm 援녹�
+388	solar �깭�뼇�쓽
+389	smart �궛�쑜�븳
+390	single �룆�떊�쓽
+391	diligent 遺�吏��윴�븳
+392	serious 吏꾩��븳
+393	fresh �깉濡쒖슫
+394	empty 鍮�
+395	mild �삩�솕�븳
+396	amazing ���씪�슫
+397	charming 留ㅻ젰�쟻�씤
+398	boring 吏�寃⑥슫
+399	giant 嫄곕��븳
+400	huge 嫄곕��븳
+401	tiny 紐뱀떆 �옉��
+402	fair 怨듬챸�젙���븳
+403	tough �떒�떒�븳
+404	foreign �쇅援��쓽
+405	modern �쁽���쓽
+406	expensive 媛믩퉬�떬
+407	harmful �빐濡쒖슫
+408	calm �룊�삩�븳
+409	special �듅蹂꾪븳
+410	steady �솗怨좏븳
+411	hay 嫄댁큹
+412	revival 遺��솢
+413	million 諛깅쭔
+414	crop �냽�옉臾�
+415	shade 洹몃뒛
+416	company 移쒓뎄
+417	canal �슫�븯
+418	wagon 吏먮쭏李�
+419	fact �궗�떎
+420	joy 湲곗겏
+421	concert �쓬�븙�쉶
+422	rule 洹쒖젙�븯�떎
+423	suitcase �뿬�뻾媛�諛�
+424	weight 臾닿쾶
+425	hurray 留뚯꽭
+426	mail �슦�렪臾�
+427	log �넻�굹臾�
+428	hut �삤�몢留됱쭛
+429	tax �꽭湲�
+430	dye 臾쇨컧
+431	earnings 踰뚯씠
+432	flame 遺덇퐙
+433	shape 紐⑥뼇
+434	chest 媛��뒾
+435	chain �궗�뒳
+436	cost 鍮꾩슜
+437	coast �빐�븞
+438	circle �썝, 吏묐떒
+439	heart �떖�옣
+440	nature �옄�뿰
+441	fever �뿴
+442	tongue ��
+443	trust �떊�슜
+444	whisker 援щ젅�굹猷�
+445	prison �삎臾댁냼
+446	blood �뵾
+447	loaf 鍮� �븳 �뜦�뼱由�
+448	list 紐낅�
+449	fence �슱��由�
+450	enemy �쟻
+451	thief �룄�몣
+452	data �옄猷�
+453	soldier 援곗씤, 蹂묒궗
+454	musician �쓬�븙媛�
+455	capital �닔�룄, �옄蹂�
+456	course 吏꾨줈, 怨쇱젙
+457	diary �씪湲�
+458	squirrel �떎�엺伊�
+459	dawn �깉踰�
+460	shadow 洹몃┝�옄
+461	ditch �룄�옉
+462	crew �듅臾댁썝
+463	stomach �쐞
+464	neighbor �씠�썐�궗�엺
+465	servant �븯�씤
+466	hunger 援띠＜由�
+467	tomb 臾�, 臾대뜡
+468	taste 留�, 痍⑤��
+469	sign �떊�샇, 援ы샇
+470	stair 怨꾨떒
+471	trip �뿬�뻾
+472	brain �뇤, 癒몃━
+473	trumpet �굹�뙏
+474	speech 留�, �뿰�꽕
+475	thumb �뾼吏��넀媛��씫
+476	horn 肉�, 寃쎌쟻
+477	chief �슦�몢癒몃━, 二쇱슂�븳
+478	trousers 諛붿�
+479	prince �솗�옄
+480	force �옒, 媛뺤슂�븯�떎
+481	sight 愿묎꼍, 寃쎌튂
+482	space 怨듦컙, �슦二�
+483	wool �뼇紐�
+484	expressway 怨좎냽�룄濡�
+485	science 怨쇳븰
+486	examination �떆�뿕, 議곗궗
+487	jar �빆�븘由�
+488	salt �냼湲�
+489	death 二쎌쓬, �궗留�
+490	saw �넲, �넲�쑝濡� 耳쒕떎
+491	swing 洹몃꽕, 吏꾨룞
+492	wish �냼�썝, �썝�븯�떎
+493	grain 怨≪떇, �궞�븣
+494	eraser 吏��슦媛�
+495	alphabet �븣�뙆踰� 臾몄옄
+496	shoulder �뼱源�
+497	nephew 議곗뭅
+498	niece 議곗뭅�뵺
+499	library �룄�꽌愿�
+500	factory 怨듭옣 �쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾
+501	giraffe 湲곕┛
+502	hawk 留�
+503	pigeon 鍮꾨몮湲�
+504	bowl �궗諛�, 洹몃쫯
+505	scene �옣硫�, �쁽�옣
+506	life �깮紐�, �깮�솢
+507	earth 吏�援�, �븙
+508	pill �븣�빟
+509	math �닔�븰
+510	ocean ���뼇
+511	price 媛�, 媛�寃�
+512	row 以�, �뿴
+513	schedule �삁�젙�몴
+514	machine 湲곌퀎
+515	route 湲�
+516	ivy �떞�웳�씠�뜦援�
+517	gift �꽑臾�, ��怨좊궃 �옱�뒫
+518	candle �뼇珥�, 珥쏅텋
+519	joke �냽�떞, �냽�떞�쓣 �븯�떎
+520	art �삁�닠, 誘몄닠
+521	corn 怨〓Ъ
+522	pet �븷�셿�룞臾�, 洹��뿬�썙�븯�뒗
+523	robber 媛뺣룄
+524	cheek 蹂�
+525	clerk �궗臾댁썝, �젏�썝
+526	cookie 荑좏궎, 留쏆엳�뒗 �옉�� 怨쇱옄
+527	army �쑁援�, 援곕�
+528	nurse 媛꾪샇�궗
+529	master 二쇱씤, �젙蹂듯븯�떎
+530	lock �옄臾쇱뇿, �옄臾쇱뇿瑜� 梨꾩슦�떎
+531	moment �닚媛�
+532	sheet 移⑤��쓽 �떆�듃, 醫낆씠 �븳 �옣
+533	monk �듅�젮
+534	teenager 10�� �냼�뀈�냼��
+535	closet 踰쎌옣
+536	handle �넀�옟�씠
+537	guide �븞�궡�옄, �븞�궡�븯�떎
+538	bar 留됰�湲�, 鍮쀬옣
+539	ostrich ��議�, 諛⑷��옄
+540	knee 臾대쫷
+541	cricket �겕由ъ폆 寃쎄린
+542	deck 媛묓뙋
+543	bit �옉�� 議곌컖, 議곌툑
+544	silk 鍮꾨떒
+545	jean 吏� 諛붿�, 吏꾩쑝濡� 留뚮뱺 �샆
+546	cotton �넑, 硫댄솕
+547	drum 遺�
+548	sand 紐⑤옒, 紐⑤옒諛�
+549	shock 異⑷꺽, 異⑷꺽�쓣 二쇰떎
+550	march �뻾吏�, �뻾吏꾪븯�떎
+551	cage �깉�옣, �슦由�
+552	whole �쟾遺�, �쟾遺��쓽
+553	change 蹂��솕, �옍�룉
+554	department 遺�, 諛깊솕�젏�쓽 留ㅼ옣
+555	office �궗臾댁떎, �쉶�궗
+556	ticket �몴, �엯�옣沅�
+557	energy �옒, �솢湲�
+558	idea �깮媛�, �씠�뀗
+559	hospital 蹂묒썝
+560	noise �냼由�, �냼�쓬
+561	sample 寃щ낯
+562	example �삁, 蹂닿린
+563	lesson �븰怨�, 援먰썕
+564	plenty �뭾遺�, 留롮�
+565	luck �뻾�슫
+566	comedy �씗洹�, 肄붾�몃뵒
+567	health 嫄닿컯
+568	history �뿭�궗
+569	forest �댉
+570	stream �쓲由�, �쓲瑜대떎
+571	future 誘몃옒, 誘몃옒�쓽
+572	state �긽�깭, 援�媛�
+573	temple �젅, �궗�썝
+574	dictionary �궗�쟾
+575	grammar 臾몃쾿
+576	college �떒怨쇰��븰, �쟾臾명븰援�
+577	husband �궓�렪
+578	daughter �뵺
+579	captain �슦�몢癒몃━, �꽑�옣
+580	booth �삤�몢留됱쭛, �옉�� 諛�
+581	iceberg 鍮숈궛
+582	bubble 嫄고뭹
+583	bottom 諛�, 諛묐컮�떏
+584	prize �긽, �긽�뭹
+585	bean 肄�
+586	race 寃쎌＜, 誘쇱”
+587	engineer 湲곗궗, 怨듯븰�옄
+588	photographer �궗吏꾩궗
+589	reason �씠�쑀, �씠�꽦
+590	subway 吏��븯�룄, 吏��븯泥�
+591	fog �븞媛�
+592	answer ���떟, ���떟�븯�떎
+593	dinning room �떇�떦
+594	step 嫄몄쓬, 嫄룸떎
+595	heat �뿴, �뜑�쐞
+596	bone 堉�
+597	plant �떇臾�, �떇臾쇱쓣 �떖�떎
+598	lamb �깉�겮�깞
+599	rate 鍮꾩쑉, �냽�룄
+600	report 蹂닿퀬, 蹂닿퀬�븯�떎
+601	turtle 諛붾떎嫄곕턿
+602	bay 留�
+603	holiday �쑕�씪, �쑕媛�
+604	center 以묒떖, 以묒떖吏�
+605	cash �쁽湲�, �쁽湲덉쑝濡� 諛붽씀�떎
+606	wolf �씠由�, �뒔��
+607	operator 援먰솚�닔
+608	fur 遺��뱶�윭�슫 �꽭, 紐⑦뵾
+609	shore 臾쇨�, 諛붾떣媛�
+610	owl �삱鍮쇰��
+611	hunter �궗�깷袁�
+612	pumpkin �샇諛�
+613	handshake �븙�닔
+614	bike �옄�쟾嫄�
+615	beach �빐�븞
+616	god �떊
+617	cough 湲곗묠, 湲곗묠�쓣 �븯�떎
+618	shell 議곌컻
+619	business �궗�뾽, �씪
+620	restaurant �떇�떦
+621	sheep �뼇
+622	officer 怨듬Т�썝, �옣援�
+623	hometown 怨좏뼢
+624	coil 肄붿씪, 媛먭릿 寃�
+625	ceiling 泥쒖옣
+626	turkey 移좊㈃議�
+627	towel �닔嫄�, ���썡
+628	matter �씪, 臾몄젣
+629	chopstick �젗媛��씫
+630	seat 醫뚯꽍, �븠�엳�떎
+631	board �뙋�옄
+632	goal 紐⑺몴, 怨�
+633	drugstore �빟援�
+634	rat 伊�, �뱾伊�
+635	butterfly �굹鍮�
+636	flute �뵆猷⑦듃, �뵾由�
+637	couple �븳 �뙇, 而ㅽ뵆
+638	beer 留μ＜
+639	background 諛곌꼍
+640	bottle 蹂�
+641	body 紐�, �떊泥�
+642	group 吏묐떒
+643	village 留덉쓣
+644	beef �뇿怨좉린
+645	load 吏�, 遺��떞
+646	coin �룞�쟾, �솕�룓
+647	bookstore �꽌�젏
+648	label 瑗щ━�몴, �뵳吏�
+649	port �빆援�
+650	quarter 4遺꾩쓽1, 15遺�
+651	sunrise �빐�룍�씠
+652	sunshine �뻼鍮�
+653	wedding 寃고샎, 寃고샎�떇
+654	crown �솗愿�
+655	seed �뵪, �뵪瑜� 肉뚮━�떎
+656	coal �꽍�깂
+657	comb 鍮�, 鍮쀬쭏�븯�떎
+658	dream 轅�, 轅덉쓣 袁몃떎
+659	sugar �꽕�깢
+660	mile 留덉씪
+661	flashlight 移대찓�씪�쓽 �뵆�옒�떆, �쉶以묒쟾�벑
+662	vegetable �빞梨�
+663	mouse �깮伊�
+664	wood �굹臾�, �댉
+665	war �쟾�웳
+666	ground �븙, �슫�룞�옣
+667	belt �씈, �뿀由щ씈
+668	tourist �뿬�뻾�옄, 愿�愿묎컼
+669	airport 怨듯빆
+670	passport �뿬沅�
+671	plate �젒�떆
+672	stone �룎
+673	downtown 踰덊솕媛�
+674	cousin �궗珥�
+675	tooth �씠
+676	potato 媛먯옄
+677	blanket �떞�슂
+678	creek �떆�깈臾�
+679	nail �넀�넲, 諛쒗넲
+680	letter �렪吏�, 臾몄옄
+681	date �궇吏�, �뜲�씠�듃 �빟�냽
+682	store 媛�寃�, ��異뺥븯�떎
+683	beggar 嫄곗�
+684	bedside 移⑤� 怨�
+685	deer �궗�뒾
+686	bill 怨꾩궛�꽌, 吏��룓
+687	doll �씤�삎
+688	pepper �썑異�
+689	frog 媛쒓뎄由�
+690	rest �쑕�떇, �굹癒몄�
+691	tower �깙
+692	bridge �떎由�
+693	cloth 泥�, 吏곷Ъ
+694	post �슦�렪, �슦�렪臾�
+695	snake 諭�
+696	job 吏곸뾽, �씪
+697	town �쓭, �룄�떆
+698	fun ���씠, �옱誘�
+699	bathroom �슃�떎
+700	tail 瑗щ━
+701	mayor �떆�옣
+702	piece �븳 議곌컖
+703	fruit 怨쇱씪
+704	british �쁺援��씤, �쁺援��쓽
+705	french �봽�옉�뒪 �궗�엺, �봽�옉�뒪�뼱
+706	German �룆�씪�궗�엺, �룆�씪�뼱
+707	sale �뙋留�, �뿼媛��뙋留�
+708	rope 諛㏃쨪
+709	umbrella �슦�궛
+710	dollar �떖�윭
+711	mistake �옒紐�, �옒紐� �븣�떎
+712	birth 異쒖깮
+713	pilot 議곗쥌�궗, �븞�궡�씤
+714	none �븘臾대룄 ~�븡�떎
+715	front �젙硫�, �븵遺�遺�
+716	present �쁽�옱, �꽑臾�
+717	nickname 蹂꾨챸, �븷移�
+718	telephone �쟾�솕, �쟾�솕瑜� 嫄몃떎
+719	pair �븳 �뙇
+720	weather �궇�뵪
+721	dish �젒�떆, �슂由�
+722	hole 援щ찉
+723	plane 鍮꾪뻾湲�
+724	living room 嫄곗떎
+725	gun 珥�
+726	meat 怨좉린
+727	cover �뜮媛�, �뜮�떎
+728	grass ��, �옍�뵒
+729	watch �넀紐⑹떆怨�, 二쇱쓽
+730	word �궞留�, �떒�뼱
+731	explain �꽕紐낇븯�떎
+732	wear �엯�떎, 李⑹슜�븯�떎
+733	amuse �옱誘몄엳寃� �븯�떎
+734	suppose �긽�긽�븯�떎, �깮媛곹븯�떎
+735	leap �쎇�떎
+736	bury 臾삳떎
+737	engage 怨좎슜�븯�떎, �빟�냽�븯�떎
+738	sow �뵪瑜� 肉뚮━�떎
+739	lift �뱾�뼱 �삱由щ떎
+740	bow �젅�븯�떎, �젅
+741	rub 鍮꾨퉬�떎, 臾몄�瑜대떎
+742	bite 臾쇰떎, 臾쇱뼱�쑐�떎
+743	vote �닾�몴�븯�떎, �닾�몴
+744	hop �븳諛쒕줈 �쎇�떎
+745	imagine �긽�긽�븯�떎, �깮媛곹븯�떎
+746	allow �뿀�씫�븯�떎
+747	offer �젣怨듯븯�떎
+748	gain �뼸�떎, �씠湲곕떎
+749	alarm ���씪寃� �븯�떎, 寃쎈낫�븯�떎
+750	obey 蹂듭쥌�븯�떎
+751	steal �썡移섎떎
+752	dig �뙆�떎
+753	choose 怨좊Ⅴ�떎, �꽑�깮�븯�떎
+754	receive 諛쏅떎
+755	bet �룉�쓣 嫄몃떎
+756	hurt �긽泥섎�� �엯�엳�떎
+757	burn ���떎, �깭�슦�떎
+758	sink 媛��씪�븠�떎
+759	decide 寃곗젙�븯�떎, 寃곗떖�븯�떎
+760	beg 援ш구�븯�떎, 泥��븯�떎
+761	reply ���떟(�븯�떎) �쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾�쁾
+762	tear 李��떎, 李��뼱吏��떎
+763	flow �쓲瑜대떎, �꽆爾먰쓲瑜대떎
+764	remember 湲곗뼲�븯�떎, �깮媛곹빐�궡�떎
+765	appear �굹���굹�떎, ~�씤 寃� 媛숇떎
+766	breathe �닲 �돩�떎, �샇�씉�븯�떎
+767	whistle �쐶�뙆�엺�쓣 遺덈떎, �쐶�뙆�엺
+768	draw �걣�떎, �떦湲곕떎
+769	sound �냼由ш� �굹�떎, �냼由�
+770	save 援ы븯�떎, ��異뺥븯�떎
+771	continue 怨꾩냽�븯�떎
+772	check ��吏��븯�떎, ��議고븯�떎
+773	sail �빆�빐�븯�떎, �룢
+774	wake 源⑤떎, 源⑥슦�떎
+775	agree �룞�쓽�븯�떎
+776	hang 嫄몃떎, 留ㅻ떖�떎
+777	record 湲곕줉
+778	drop �뼥�뼱吏��떎, �뼥�뼱�쑉由щ떎
+779	climb 湲곗뼱�삤瑜대떎, �삤瑜대떎
+780	add �뜑�븯�떎, 蹂댄깭�떎
+781	shine 鍮쏅굹�떎
+782	invite 珥덈��븯�떎
+783	join 寃고빀�븯�떎, 李멸��븯�떎
+784	hide 媛먯텛�떎, �닲�떎
+785	bring 媛��졇�삤�떎, �뜲�젮�삤�떎
+786	wink �늿�쓣 源쒕컯嫄곕━�떎, �늿吏볧븯�떎
+787	shoot �룜�떎, �궗寃⑺븯�떎
+788	roll 援щⅤ�떎, 援대━�떎
+789	pull �옟�븘�떦湲곕떎, �걣�떎
+790	push 諛��떎
+791	guess 異붿륫�븯�떎, 異붿륫
+792	belong �늻援щ늻援ъ뿉寃� �냽�븯�떎
+793	happen �씪�뼱�굹�떎, �깮湲곕떎
+794	pick 怨좊Ⅴ�떎, 以띾떎
+795	shake �뼥�떎, �쓷�뱾�떎
+796	fill 梨꾩슦�떎, 媛��뱷�븯�떎
+797	fail �떎�뙣�븯�떎
+798	fight �떥�슦�떎, �쟾�닾
+799	fear �몢�젮�썙�븯�떎, �몢�젮��
+800	carry �굹瑜대떎, �슫諛섑븯�떎[800]
+801	dive �떎�씠鍮숉븯�떎, �옞�닔�븯�떎
+802	win �씠湲곕떎, �뼸�떎
+803	ride ���떎, ��怨� 媛��떎
+804	turn �룎�떎, 蹂��솕�븯�떎
+805	need �븘�슂濡� �븯�떎, �븘�슂
+806	build 吏볥떎, 嫄댁텞�븯�떎
+807	hurry �꽌�몢瑜대떎, �꽌�몢由�
+808	return �룎�븘媛��떎, �룎�븘�삤�떎
+809	believe 誘용떎
+810	surprise ���씪�떎, ���엺
+811	gather 紐⑥쑝�떎
+812	throw �뜕吏��떎
+813	raise �삱由щ떎, �씪�쑝�궎�떎
+814	count �꽭�떎, 怨꾩궛�븯�떎
+815	smell �깂�깉瑜� 留〓떎, �깂�깉
+816	spend �냼鍮꾪븯�떎, 吏��궡�떎
+817	pitch �뜕吏��떎
+818	pop �럱�븯怨� �냼由� �굹�떎, ��以묒쓬�븙
+819	blow 遺덈떎
+820	miss �넃移섎떎, 洹몃━�썙�븯�떎
+821	excuse �슜�꽌�븯�떎, 蹂�紐낇븯�떎
+822	hit 移섎떎
+823	tie 留ㅻ떎, 臾띕떎
+824	touch �떯�떎, 媛먮룞�떆�궎�떎
+825	stay 癒몃Т瑜대떎
+826	enjoy 利먭린�떎
+827	lose �엪�떎, 吏��떎
+828	close �떕�떎, �걹�굹�떎
+829	arrive �룄李⑺븯�떎
+830	travel �뿬�뻾�븯�떎, �뿬�뻾
+831	reach �룄李⑺븯�떎
+832	hold 伊먮떎, 媛쒖턀�븯�떎
+833	worry 嫄깆젙�븯�떎, 愿대∼�엳�떎
+834	marry 寃고샎�븯�떎
+835	expect 湲곕��븯�떎, ~�씪怨� �깮媛곹븯�떎
+836	understand �씠�빐�븯�떎, �븣�떎
+837	become ~�씠 �릺�떎, �뼱�슱由щ떎
+838	break 遺��닔�떎, 源⑤쑉由щ떎
+839	smoke �떞諛곕�� �뵾�슦�떎, �뿰湲�
+840	lend 鍮뚮젮二쇰떎
+841	shut �떕�떎
+842	sleep �옄�떎
+843	lay �닏�엳�떎, �넃�떎
+844	paint 洹몃━�떎, �럹�씤�듃瑜� 移좏븯�떎
+845	lead �씤�룄�븯�떎, 吏��궡�떎
+846	pass 吏��굹媛��떎, �빀寃⑺븯�떎
+847	hand 二쇰떎, 嫄대꽕二쇰떎
+848	ancient 怨좊��쓽
+849	nuclear �빑�쓽
+850	necessary �븘�슂�븳
+851	common 怨듯넻�쓽, 蹂댄넻�쓽
+852	inner �븞履쎌쓽
+853	thirsty 紐⑸쭏瑜�
+854	thin �뻼��, �빞�쐢
+855	gray �쉶�깋, �쉶�깋�쓽
+856	famous �쑀紐낇븳
+857	industrial �궛�뾽�쓽, 怨듭뾽�쓽
+858	silent 議곗슜�븳, 移⑤У�쓽
+859	absent 寃곗꽍�븳
+860	flat �룊�룊�븳
+861	main 二쇱슂�븳
+862	wild �빞�깮�쓽, �궃�룺�븳
+863	wet �젚��
+864	blind �늿癒�
+865	dumb 踰숈뼱由ъ쓽
+866	sharp �궇移대줈�슫
+867	terrible �걫吏곹븳, 臾댁꽌�슫
+868	grand �썒�옣�븳, �솕�젮�븳
+869	homesick 怨좏뼢�쓣 洹몃━�썙�븯�뒗, �뼢�닔蹂묒쓽
+870	bound ~濡� 異쒕컻�븯�젮怨� �븯�뒗
+871	fat �궡李�, 吏�諛�
+872	strange �씠�긽�븳, �궚�꽑
+873	pleasant 湲곕텇 醫뗭�, �쑀苡뚰븳
+874	handsome �옒�깮湲�, 硫뗭쭊
+875	equal 媛숈�, �룞�벑�븳
+876	dear 移쒖븷�븯�뒗, 媛믩퉬�떬
+877	sweet �떖肄ㅽ븳
+878	dull �슦�몦�븳, 臾대뵖
+879	weak �빟�븳
+880	bright 諛앹�, �쁺由ы븳
+881	honest �젙吏곹븳
+882	elder �넀�쐞�쓽, �뿰�긽�쓽
+883	such 洹몃윭�븳, �씠�윭�븳
+884	able �쑀�뒫�븳, �븷 �닔 �엳�뒗
+885	loud 紐⑹냼由ш� �겙, �떆�걚�윭�슫
+886	simple 媛꾨떒�븳, �떒�닚�븳
+887	clever �쁺由ы븳
+888	proud �옄�옉�뒪�윭�슫, �삤留뚰븳
+889	foolish �뼱由ъ꽍��
+890	possible 媛��뒫�븳
+891	enough 異⑸텇�븳, 異⑸텇�엳
+892	wise �쁽紐낇븳
+893	wide �꼻��, �꼸由�
+894	successful �꽦怨듯븳
+895	clear 留묒�, 紐낅갚�븳
+896	clean 源⑤걮�븳
+897	deep 源딆�, 源딄쾶
+898	own �옄湲� �옄�떊�쓽, �냼�쑀�븯�떎
+899	cheap 媛믪떬
+900	certain �솗�떎�븳, �뼱�뼡
+901	important 以묒슂�븳
+902	stormy �룺�뭾�쓽
+903	true 吏꾩떎�븳
+904	sad �뒳�뵂
+905	gay 紐낅옉�븳, �솕�젮�븳
+906	merry 利먭굅�슫
+907	colorful �떎梨꾨줈�슫, �솕�젮�븳
+908	wonderful ���엫留뚰븳, �썙瑜��븳
+909	peaceful �룊�솕濡쒖슫
+910	angry �꽦�궃
+911	dry 留덈Ⅸ
+912	wrong �굹�걶, ��由�
+913	heavy 臾닿굅�슫
+914	quiet 議곗슜�븳
+915	several �뿬�읉�쓽, 紐뉖챺�쓽
+916	alone ��濡�, �떎留� ~ 肉�
+917	crowded 遺먮퉬�뒗, �샎�옟�븳
+918	excited �씎遺꾪븳
+919	alive �궡�븘�엳�뒗
+920	brown 媛덉깋�쓽, 媛덉깋
+921	different �떎瑜�
+922	difficult �뼱�젮�슫
+923	interesting �옱誘몄엳�뒗
+924	unlike 媛숈� �븡��
+925	least 媛��옣 �쟻��, 理쒖냼�븳�쓽
+926	afraid 臾댁꽌�썙�븯�뿬
+927	cool �꽌�뒛�븳, �깋�젙�븳
+928	pretty �삁�걶, �긽�떦�엳
+929	kind 移쒖젅�븳, 醫낅쪟
+930	sick 蹂묐뱺, �떕利앸궃
+931	useless �벝紐⑥뾾�뒗
+932	busy 諛붿걶
+933	early �씪李띿씠
+934	past 怨쇨굅�쓽, ~�쓣 吏��굹�꽌
+935	dark �뼱�몢�슫
+936	cloudy 援щ쫫�씠 ��
+937	short 吏㏃�, �궎媛� �옉��
+938	low �궙��, �궙寃�
+939	sincerely �꽦�떎�엳
+940	fortunately �슫 醫뗪쾶, �떎�뻾�엳
+941	finally 理쒗썑濡�, 留덉묠�궡
+942	immediately 怨�, 利됱떆
+943	especially �듅蹂꾪엳
+944	else 洹몃컰�뿉
+945	actually �떎�젣濡�
+946	hardly 嫄곗쓽 ~ �븘�땲�떎
+947	otherwise �떎瑜� 諛⑸쾿�쑝濡�, 洹몃젃吏� �븡�쑝硫�
+948	tightly �떒�떒�엳
+949	recently 理쒓렐�뿉
+950	rapidly 鍮⑤━, �떊�냽�엳
+951	however �븘臾대━ ~�빐�룄, 洹몃윭�굹
+952	politely 怨듭넀�엳, �젙以묓븯寃�
+953	rudely 臾대��븯寃�
+954	further �뜑�슧�씠, �꽣癒�
+955	frankly �넄吏곹엳
+956	properly �쟻�떦�엳, �삱諛붾Ⅴ寃�
+957	haste 湲됲븿, �떊�냽, �꽌�몢瑜대떎
+958	rather �삤�엳�젮, �뼹留덇컙
+959	together �븿猿�
+960	altogether �쟾��, ��泥대줈
+961	suddenly 媛묒옄湲�
+962	mostly ��媛쒕뒗
+963	correctly �젙�솗�엳
+964	ahead �븵�쑝濡�, �븵�뿉
+965	instead ���떊�뿉
+966	quite �븘二�, 留ㅼ슦
+967	nearly 嫄곗쓽
+968	badly �굹�걯寃�, 紐뱀떆
+969	almost 嫄곗쓽
+970	exactly �젙�솗�엳
+971	apart �뼥�뼱�졇�꽌, �뵲濡�
+972	afterward �썑�뿉, �굹以묒뿉
+973	later �썑�뿉, �굹以묒뿉
+974	maybe �븘留�
+975	perhaps �븘留�
+976	probably �븘留�
+977	either ~�룄 �삉�븳 ~ �븯吏� �븡�떎
+978	neigher ~�룄 �븘�땲怨� ~�룄 �븘�땲�떎
+979	besides 寃뚮떎媛�, 洹몃컰�뿉
+980	anyway �뼱夷뚮뱺, �븘臾댄듉
+981	sometime �뼵�젨媛�
+982	forward �븵履쎌뿉, �븵�쑝濡�
+983	since 洹� �썑, 洹� �씠�옒
+984	once �븳踰�, �븳�븣
+985	twice �몢 踰�
+986	indeed 李몄쑝濡�
+987	seldom 醫�泥섎읆 ~�븯吏� �븡�떎
+988	upside down 嫄곌씀濡�
+989	whether ~�씤吏� �뼱�뼡吏�
+990	unless ~�븯吏� �븡�쑝硫�
+991	though 鍮꾨줉 ~�씪吏��씪�룄
+992	while ~�븯�뒗 �룞�븞
+993	usually 蹂댄넻, ��媛�
+994	safely �븞�쟾�븯寃�
+995	along ~�쓣 �뵲�씪�꽌
+996	without ~�뾾�씠
+997	behind ~�쓽 �뮘�뿉
+998	beyond ~�쓽 ��履쎌뿉, ~�씠�긽�쑝濡�
+999	below ~�쓽 �븘�옒�뿉
+1000	toward ~履쎌쑝濡�
