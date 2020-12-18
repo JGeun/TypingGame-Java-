@@ -1,7 +1,0 @@
-package typing_game8;
-
-public class GameLevel {
-	public GameLevel() {
-		
-	}
-}

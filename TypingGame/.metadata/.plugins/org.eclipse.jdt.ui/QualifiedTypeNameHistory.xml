@@ -9,17 +9,21 @@
     <fullyQualifiedTypeName name="typing_game9.PauseMenuPanel"/>
     <fullyQualifiedTypeName name="typing_game10.Main"/>
     <fullyQualifiedTypeName name="typing_game11.GamePanel.WordThread"/>
-    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
     <fullyQualifiedTypeName name="java.awt.Window"/>
     <fullyQualifiedTypeName name="javax.swing.JFrame"/>
     <fullyQualifiedTypeName name="java.awt.Frame"/>
     <fullyQualifiedTypeName name="javax.swing.JLabel"/>
-    <fullyQualifiedTypeName name="java.text.AttributedString"/>
     <fullyQualifiedTypeName name="java.awt.font.TextAttribute"/>
     <fullyQualifiedTypeName name="javax.swing.JPanel"/>
     <fullyQualifiedTypeName name="typing_game14.SettingPanel"/>
-    <fullyQualifiedTypeName name="java.awt.Container"/>
     <fullyQualifiedTypeName name="java.awt.event.MouseEvent"/>
     <fullyQualifiedTypeName name="java.awt.Cursor"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicBoolean"/>
+    <fullyQualifiedTypeName name="typing_game14.Main"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="java.beans.Visibility"/>
+    <fullyQualifiedTypeName name="java.text.AttributedString"/>
+    <fullyQualifiedTypeName name="java.awt.Container"/>
+    <fullyQualifiedTypeName name="typing_game19.RankUser"/>
 </qualifiedTypeNameHistroy>
